@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "MAFIA_TOP.aternos.me:47234",
-    "port": 47234,
-    "version": "1.21.1"
+    "ip": "MiloVN.aternos.me",
+    "port": 27977,
+    "version": "1.21.4"
   },
 
   "position": {
